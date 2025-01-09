@@ -1,0 +1,140 @@
+.Nursery-contactUs-section2-maindiv{
+    /* background: #FAAB34;  */
+display: flex;
+align-items: baseline;
+justify-content: center;
+background-image: url(/images/NurturingcontactusNature.png);
+background-repeat: no-repeat;
+background-size: cover;
+/* background-color: #FAAB34(250, 171, 52, 0.5) !important; */
+/* background-color: rgba(250, 171, 52, 0.5) !important; */
+
+
+height: 100%;
+padding-bottom: 11% !important;
+}
+
+
+
+
+.Nursery-contactUs-section2-maindiv-subdiv-p1{
+    font-size: 2rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-family: "Work Sans", serif;
+    text-align: center;
+    margin-top: 20% !important;
+}
+.Nursery-contactUs-section2-maindiv-subdiv-p2{
+    font-size: 1rem;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-family: "Work Sans", serif;
+    text-align: center;
+}
+/* ----------------------section3----------------------------------- */
+.Nursery-contactUs-section3-maindiv{
+    background: #000000;
+border-radius: 20px !important;
+margin-top: -4%;
+}
+.Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p1{
+    font-size: 3rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-family: "Work Sans", serif;
+}
+.Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p2{
+    font-size: 1rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    font-family: "Work Sans", serif;
+}
+.Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p3{
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #B3B3B3;
+    font-family: "Work Sans", serif;
+    margin-right: 50%;
+}
+.Nursery-contactUs-section3-maindiv-row1-col2-divsub-input,
+.Nursery-contactUs-section3-maindiv-row1-col2-divsub-textarea{
+width: 100%;
+padding: 5px 15px;
+background-color: transparent;
+border-bottom: 1px solid var(--Basic-Forms-Input-Border-Border-Color, #E5E7EB) !important;
+border: none;
+outline: none;
+color:   #6B7280;
+
+}
+.Nursery-contactUs-section3-maindiv-row1-col2-divsub-textarea{
+    color: #6B7280;
+    
+    font-family: "Inter", serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+    outline:none !important; 
+
+}
+.Nursery-contactUs-section3-maindiv-row1-col2-divsub-label{
+    margin-top: 3%;
+    font-family: "Inter", serif;
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: #FFFFFF;
+}
+.Nursery-contactUs-section3-maindiv-row1-col2-divsub-input::placeholder{
+    color: #6B7280;
+    font-family: "Inter", serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+}
+.Nursery-contactUs-section3-maindiv-row1-col2-divsub-btn{
+    background: #FAAB34;
+width: 100%;
+font-family: "Inter", serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: #FFFFFF;
+    border: none;
+    padding: 9px 20px;
+    margin-top: 7% !important;
+}
+@media (max-width:676px) {
+    .Nursery-contactUs-section2-maindiv-subdiv-p1{
+        font-size: 1.5rem;
+    }
+    .Nursery-contactUs-section2-maindiv-subdiv{
+        padding: 1rem !important;
+    }
+    .Nursery-contactUs-section2-maindiv-subdiv-p2{
+       font-size:  0.8rem;
+    }
+    .Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p1{
+        font-size: 2rem;
+    }
+    .Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p3{
+        margin-right: 0% !important;
+    }
+    .Nursery-contactUs-section3-maindiv-row1-col2{
+        padding: 0% !important;
+        margin-bottom: 4% !important;
+    }
+    .Nursery-contactUs-section3-maindiv-row1-col1{
+        margin-bottom: -4rem !important;
+    }  
+}
+@media (min-width:678px) and (max-width:1024px) {
+    .Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p1 {
+        font-size: 2rem;}
+        .Nursery-contactUs-section3-maindiv-row1-col1-subdiv-p3 {
+            margin-right: 0% !important;
+        }
+        .Nursery-contactUs-section3-maindiv-row1-col2-divsub-label{
+            font-size: 0.8rem !important;
+        }
+        .Nursery-contactUs-section3-maindiv{
+            margin-top: -7% !important;
+        }
+}

@@ -1,0 +1,1195 @@
+.Nuseryplanthome-mainsection{
+background-color: #000000;
+
+}
+.Nusery-planthome-mainsection-p1{
+text-align: center;
+color:#FFFFFF;
+font-family: "Work Sans", serif;
+font-size: 1rem;
+font-weight: 400;
+}
+.Nuseryplanthome-mainsection-row-divnav-ul{
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 30%; */
+    display: flex;
+    margin-top: 1%;
+}
+.Nuseryplanthome-mainsection-row-divnav2{
+    justify-content: center;
+    align-items: center;
+    /* margin-left: 30%; */
+    display: flex;
+    margin-top: 1%;
+}
+
+
+/* .Nuseryplanthome-mainsection-row-divnav{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.Nuseryplanthome-mainsection-row-divnav-ul-li1
+
+{
+text-decoration: none;
+margin-left: 3%;
+padding-left: 3%;
+margin: 0.5% !important;
+list-style: none;
+
+}
+.Nuseryplanthome-mainsection-row-divnav-ul-li1 a{
+    text-decoration: none;
+    font-family: "Inter", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000000;
+}
+
+.Nuseryplanthome-mainsection-row-divnav-ul-li2 a{
+    text-decoration: none;
+    font-family: "Inter", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000000;
+    margin-top: 10%;
+}
+.Nuseryplanthome-mainsection-row-divnav-ul-li2{
+    list-style: none;
+    text-decoration: none;
+    margin-top: 4%;
+}
+
+
+
+
+
+.nav-link:hover{
+
+    color: #FAAB34 !important;
+}
+
+.nav-link.active {
+    color: #FAAB34 !important; /* Change text color */
+    /* Add background color for highlight */
+   
+    transition: all 0.3s ease; /* Smooth transition */
+  }
+
+
+
+.Nuseryplanthome-mainsection-row-divmocha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Nuseryplanthome-mainsection-row-div3{
+gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Nuseryplanthome-mainsection-row-mocha-p{
+
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+font-size: 1.5rem;
+font-weight: 600;
+}
+.Nuseryplanthome-mainsection-row-btn{
+color: #FFFFFF;
+    background: #FAAB34;
+    font-family: "Inter", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 12px 5px 12px;
+}
+
+.Nuseryplanthome-mainsection-row-btn1{
+    color: #FFFFFF;
+        background: #FAAB34;
+        font-family: "Inter", serif;
+        font-size: 1rem;
+        font-weight: 500;
+        border: none;
+        border-radius: 5px;
+        margin-top: 10%;
+        padding: 5px 12px 5px 12px;
+        text-align: center;
+    }
+
+.Nuseryplanthome-mainsection-imgplantdiv{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Nuseryplanthome-mainsection-planttypep{
+text-align: center;
+font-family: "Inter", serif;
+font-size: 0.9rem;
+font-weight: 400;
+
+}
+.Nuseryplanthome-mainsection-planttypep {
+    font-family: "Work Sans", serif;
+        font-size: 1rem;
+        font-weight: 500;
+}
+
+@media (min-width:320px) and (max-width:766px){
+    .Nuseryplanthome-mainsection-row-divnav-ul-li1 a{
+
+        font-size: 0.8rem !important;
+    }
+    .plantimg{
+        width: 50% !important;
+    }
+    /* .Nuseryplanthome-mainsection-container{
+        margin-top: 2%;
+    } */
+}
+
+@media  (min-width:767px) and (max-width:1024px){
+    .Nuseryplanthome-mainsection-row-divnav-ul-li1 a{
+
+        font-size: 0.8rem !important;
+    }
+    .Nuseryplanthome-mainsection-planttypep {
+        font-size: 0.6rem !important;
+    }
+}
+    /* -------section3------------- */
+    .Nuseryplanthome-mainsection-row3{
+
+        background: #FAAB34;
+
+
+    }
+    .Nuseryplanthome-mainsection-row3-div1{
+
+        border-right: 1px solid #FFFFFF;
+    }
+    .Nuseryplanthome-mainsection-row3-div1-p
+    {
+        font-family: "Work Sans", serif;
+        font-size: 1.5rem;
+        font-weight: 600;
+color: #FFFFFF;
+/* margin-left: 8%; */
+text-align: center;
+text-transform: uppercase;
+margin-top: 1% !important;
+
+    }
+    .Nuseryplanthome-mainsection-row3-div1-p2{
+        font-family: "Work Sans", serif;
+        font-size: 1.5rem;
+        font-weight: 600;
+color: #FFFFFF;
+/* margin-left: 15%; */
+text-align: center;
+text-transform: uppercase;
+
+    }
+    .uptospan{
+       
+            writing-mode:vertical-rl;/* or vertical-lr */
+            text-orientation:sideways-right;
+        word-spacing: 0.9px;
+        font-size: 0.8rem;
+        padding-top: 2%;
+        font-weight: 300;
+    }
+    .Nuseryplanthome-mainsection-row4{
+        background-image: url(/images/nuersaryhomebackgroundimg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100% !important;
+
+    }
+    .Nuseryplanthome-mainsection-row4-div1-p1{
+        font-family: "Work Sans", serif;
+        font-size: 1rem;
+        font-weight: 500;
+        color: #FAAB34;
+        margin-left: 10%;
+    }
+    .Nuseryplanthome-mainsection-row4-div1-p2{
+        font-family: "Work Sans", serif;
+        font-size: 2rem;
+        font-weight: 600;
+        color: #FFFFFF;
+       margin-right: 20%;
+        margin-left: 10%;
+        line-height: 2rem;
+    }
+    .Nuseryplanthome-mainsection-row4-div2-subdiv{
+        margin-top: 32%;
+        margin-left: 30%;
+
+    }
+    .Nuseryplanthome-mainsection-row4-div2-p1{
+        color: #000000;
+        font-family: "Work Sans", serif;
+        font-size: 1rem;
+        font-weight: 500;
+    }
+    .Nuseryplanthome-mainsection-row4-div2-btn{
+border: none;
+border-radius: 5px;
+border-left: 0.81px solid #FAAB34;
+background: #FAAB34;
+color: #FFFFFF;
+font-family: "Work Sans", serif;
+font-size: 1rem;
+font-weight: 500;
+padding: 5px 12px 5px 12px;
+    }
+    /* ---------media for row4--- */
+    @media (min-width:300px) and (max-width:767px){
+        
+        .Nuseryplanthome-mainsection-row4-div1-subdiv
+       {
+            margin: 0% !important;
+            padding: 0% !important;
+
+
+        }
+        .Nuseryplanthome-mainsection-row4-div2-btn{
+            margin-bottom: 4% !important;
+        }
+        .Nuseryplanthome-mainsection-row4-div2-p1{
+            color: #FFFFFF;
+            padding-top: 0% !important;
+        }
+        .Nuseryplanthome-mainsection-row4-div2-subdiv{
+            margin-top: 15%;
+            padding: 0% !important;
+        
+        margin-left: 5%;
+        }
+        .Nuseryplanthome-mainsection-row4-div1-p1{
+            margin-top: 10px !important;
+            text-align: center;
+        }
+        .Nuseryplanthome-mainsection-row4-div1-p2{
+          
+            margin: 1% !important;
+            font-size: 1rem;
+            line-height: 1.3rem;
+            text-align: center;
+        }
+        .Nuseryplanthome-mainsection-row4-div1-p1{
+            
+            font-size: 0.8rem;
+           
+            
+        }
+        .Nuseryplanthome-mainsection-row4{
+            padding: 0% !important;
+
+        }
+        .Nuseryplanthome-mainsection-row3-div1-p{
+            font-size: 1rem;
+            margin-top: 0% !important;
+            text-align: center;
+        }
+        .Nuseryplanthome-mainsection-row3-div1-p2 {
+            font-size: 1rem;
+            margin-top: -10% !important;
+            /* margin-left: 30%; */
+        }
+        .Nuseryplanthome-mainsection-row5-container-p2{
+            font-size: 1rem !important;
+            line-height: 1rem !important; 
+            margin-right: 0% !important;
+            margin-left: 0% !important;
+            text-align: center;
+
+        }
+        .Nuseryplanthome-mainsection-row5-container-second-row1-div1-p1{
+            font-size: 0.9rem !important;
+            line-height: 1rem !important;
+    margin-left: 0%;
+    text-align: center;
+    margin-right: 0%;
+        } 
+        .subdiv{
+
+            padding-top: 0rem !important;
+        }
+        .Nuseryplanthome-mainsection-row5-container-second-row1-div1-p2{
+            margin-left: 10%;
+            margin-right: 0% !important;
+            margin-top: 0rem !important;
+            font-size: 0.8rem !important;
+        }
+        .Nuseryplanthome-mainsection-row5-container-second-row1-div1-btn{
+            font-size: 0.8rem !important;
+        }
+    }
+    @media (min-width:768px) and (max-width:1000px){
+        .Nuseryplanthome-mainsection-row4-div1-subdiv
+        {
+             margin-top: 20% !important;
+             padding: 0% !important;
+     
+ 
+ 
+         }
+
+         .Nuseryplanthome-mainsection-row4-div2-p1{
+            font-size: 0.8rem !important;
+         }
+         .Nuseryplanthome-mainsection-row5-container-second-row1-div1-p2{
+           
+            margin-top: 1% !important;
+            font-size: 0.8rem !important;
+        }
+
+         .Nuseryplanthome-mainsection-row5-container-p2{
+            font-size: 1.6rem !important;
+            line-height: 1.6rem !important;
+            margin-right: 17% !important;
+    margin-left: 20% !important;
+         }
+         .Nuseryplanthome-mainsection-row5-container-second-row1-div1-p1{
+            font-size: 1.1rem !important;
+        line-height: 1.4rem !important;
+
+         }
+         .Nuseryplanthome-mainsection-row4-div2-btn{
+            margin-bottom: 4% !important;
+        }
+         .Nuseryplanthome-mainsection-row4 {
+
+            padding: 0rem !important;
+         }
+         .Nuseryplanthome-mainsection-row4-div2-subdiv{
+           margin-top: 30% !important;
+            padding: 0% !important;
+        
+        margin-left: 20% !important;
+        }
+        .Nuseryplanthome-mainsection-row4-div1-p1{
+            
+            font-size: 0.8rem;
+           
+            
+        }
+        .Nuseryplanthome-mainsection-row4-div1-p2{
+            margin-right: 21%;
+            font-size: 1.2rem;
+            line-height: 1.3rem;
+             
+         }
+         .Nuseryplanthome-mainsection-row4{
+            width: 100% !important;
+           
+         }
+         .Nuseryplanthome-mainsection-row3-div1-p{
+            font-size: 1.3rem;
+        }
+        .Nuseryplanthome-mainsection-row3-div1-p2 {
+            font-size: 1.1rem;
+        }
+        .Nuseryplanthome-mainsection-row6-divmain-row1-div1-subdiv-p2 {
+
+            font-size: 1.3rem !important;
+            line-height: 1.4rem !important;
+        }
+    }
+    /* ------------section5------------ */
+    .Nuseryplanthome-mainsection-row5-container-p1{
+        text-align: center;
+        color: #FAAB34;
+        font-family: "Work Sans", serif;
+font-size: 1rem;
+font-weight: 500;
+    }
+    .Nuseryplanthome-mainsection-row5-container-p2{
+        font-family: "Work Sans", serif;
+        font-size: 2rem;
+        font-weight: 600;
+color: #000000;
+text-align: center;
+margin-right: 21%;
+    margin-left: 30%;
+    line-height: 2.2rem;
+    }
+    .Nuseryplanthome-mainsection-row5-container-second-row1-div1-p1{
+
+        color: #000000;
+        font-family: "Work Sans", serif;
+        font-size: 1.8rem;
+        font-weight: 600; line-height: 2rem;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+    .Nuseryplanthome-mainsection-row5-container-second-row1-div1-p2{
+
+        color: #858584;
+        font-family: "Work Sans", serif;
+        font-size: 1rem;
+        font-weight: 400;
+        margin-right: 28%;
+        margin-left: 10%;
+    }
+    .Nuseryplanthome-mainsection-row5-container-second-row1-div1-btn{
+color: #000000;
+font-family: "Work Sans", serif;
+font-size: 1rem;
+font-weight: 500;
+margin-right: 10%;
+margin-left: 10%;
+border-left: 0.81px solid #FAAB34 !important;
+border: none;
+padding: 5px 12px 5px 12px;
+    }
+    .Nuseryplanthome-mainsection-row5-imgdiv{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    .Nuseryplanthome-mainsection-row5-div-watch{
+        background-image: url(/images/HomeRectangle.png);
+        background-repeat: no-repeat;
+        transform: translateY(-76px);
+       
+    }
+    .Nuseryplanthome-mainsection-row5-div-watch-subdiv-p1{
+        color: #FFFFFF;
+        font-family: "Work Sans", serif;
+font-size: 1rem;
+font-weight: 400;
+padding-left: 2% !important;
+    }
+    .Nuseryplanthome-mainsection-row5-div-watch-subdiv-p2{
+        color: #FFFFFF;
+        font-family: "Work Sans", serif;
+font-size: 1rem;
+font-weight: 500;
+padding-left: 2% !important;
+    }
+    /* -------------section6----------- */
+    .Nuseryplanthome-mainsection-row6-divmain{
+        background: #000000;
+
+
+    }
+    .Nuseryplanthome-mainsection-row6-divmain-row1-div1-subdiv-p1{
+
+color: #FAAB34;
+font-size: 1rem;
+font-family: "Work Sans", serif;
+font-weight: 500;
+margin-right: 10%;
+margin-left: 10%;
+margin-bottom: 0%;
+    }
+    .Nuseryplanthome-mainsection-row6-divmain-row1-div1-subdiv-p2{
+color: #FFFFFF;
+font-size: 2rem;
+font-family: "Work Sans", serif;
+font-weight: 600;
+margin-right: 20%;
+margin-left: 10%;
+line-height: 2rem;
+    }
+    /*   -----carousel--------- */
+    .Nuseryplanthome-mainsection-carousel-text{
+color: #FFFFFF;
+font-size: 0.6rem;
+font-family: "Work Sans", serif;
+font-weight: 400;
+
+    }
+    .Nuseryplanthome-mainsection-carousel-title{
+        color: #FFFFFF;
+        font-size: 0.9rem;
+        font-family: "Work Sans", serif;
+        font-weight: 600;
+
+    }
+    .Nuseryplanthome-mainsection-carousel-card{
+        text-align: center;
+        border: none;
+        border-radius: none !important;
+    }
+    @media (max-width: 567px) {
+        
+      
+      
+        
+   
+        /*  */
+        .Nuseryplanthome-mainsection-row6-divmain-row1-div1-subdiv-p2{
+            font-size: 1rem !important;
+line-height: 1.2rem !important;
+        }
+        /* .Nuseryplanthome-mainsection-carousel-text{
+           text-align: center;
+                }
+                .Nuseryplanthome-mainsection-carousel-title{
+                    text-align: center;
+            
+                } */
+                .Nuseryplanthome-mainsection-carousel-card{
+                    align-items: center;
+                    display: flex;
+                    justify-content: center;
+                }
+      }
+
+      @media (min-width:678px) and (max-width:1024px){
+        .Nuseryplanthome-mainsection-carousel-text{
+            font-size: 0.5rem !important;
+        }
+        .Nuseryplanthome-mainsection-carousel-title{
+            font-size: 0.6rem !important;
+    
+        }
+      }
+      .carousel-control-prev-icon,
+      .carousel-control-next-icon{
+        background-repeat: no-repeat;
+        display: none;
+
+      }
+      /* ------------------------section row7---------- */
+      .Nuseryplanthome-mainsection-row7-divmain-container-p1{
+
+color: #FAAB34;
+font-size: 1.3rem;
+font-weight: 500;
+font-family: "Work Sans", serif;
+text-align: center;
+      }
+      .Nuseryplanthome-mainsection-row7-divmain-container-p2{
+        font-size: 1.5rem;
+        font-weight: 600;
+        font-family: "Work Sans", serif;
+        color: #000000;
+       text-align: center;
+        margin-left: 23%;
+        margin-right: 22%;
+      }
+      .Nuseryplanthome-mainsection-row7-divmain-container-row1-div1-imgdiv{
+
+        justify-content: center;
+        align-items: center;
+        display: flex;}
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p1{
+margin-right: 42%;
+            color: #000000;
+            font-size: 1.4rem;
+        font-weight: 600;
+        font-family: "Work Sans", serif;
+
+        }
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-parasubdiv{
+            margin-left: 10% !important;
+        }
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p2,
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p4,
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p6{
+            color: #000000;
+            font-size: 1.3rem;
+        font-weight: 600;
+        font-family: "Work Sans", serif;
+
+        }
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p3,
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p5,
+        .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p7{
+            color: #858584;
+            font-size: 1.2rem;
+        font-weight: 400;
+        font-family: "Work Sans", serif;
+
+        }
+@media (max-width:675px) {
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div1-imgdiv-img1{
+        width: 50% !important;
+    }
+    
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p1{
+        
+        margin-top: 4%;
+        margin-right: 0% !important;
+        margin-left: 0% !important;
+        font-size: 1.2rem !important;
+
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv{
+        margin-left: 15% !important;
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-parasubdiv{
+        margin-left: 0% !important;
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p2,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p4,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p6{
+       
+        font-size: 1rem;
+        margin-bottom: 0.5%;
+
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p3,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p5,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p7{
+       
+        font-size: 0.8rem;
+    
+
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p1{
+        
+        margin-top: 2%;
+        margin-right: 0% !important;
+        margin-left: 0% !important;
+        font-size: 1.1rem !important;
+
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-p2{
+        font-size: 1.1rem !important;
+        
+    margin-left: 1%;
+    margin-right: 2%;
+    }
+
+
+}
+@media (min-width:766px) and (max-width:1024px){
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p2,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p4,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p6{
+        margin-bottom: 1%;
+        font-size: 1rem;
+   
+
+    }
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p3,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p5,
+    .Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p7{
+       
+        font-size: 0.8rem;
+       
+
+    }
+    
+.Nuseryplanthome-mainsection-row7-divmain-container-p2{
+    font-size: 1.2rem;
+    text-align: center;
+    margin-left: 28%;
+    margin-right: 19%;
+}
+.Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv{
+    margin-left: 3rem !important;
+}
+.Nuseryplanthome-mainsection-row7-divmain-container-row1-div2-subdiv-p1 {
+    margin-right: 29% !important;
+    font-size: 1.1rem;
+}
+.Nuseryplanthome-mainsection-row7-divmain-container-row1-div1-imgdiv-img1{
+    width: 100% !important;
+}
+.Nuseryplanthome-mainsection-row7-divmain-container-p1{
+    margin-bottom: 0.5rem !important;
+}
+}
+
+
+
+
+
+
+
+        /* -------------row8---------- */
+        .Nuseryplanthome-mainsection-row8-rowmain{
+            background-image: url(/images/nurseryplanthomepotimg.png);
+            background-size: cover;
+            background-repeat: no-repeat;
+            width: 100%;
+        }
+        .Nuseryplanthome-mainsection-row8-rowmain-div1{
+            background-color: rgba(250, 171, 52, 0.5);
+        }
+        .Nuseryplanthome-mainsection-row8-rowmain-div1-p1{
+color: #FFFFFF;
+font-size: 2rem;
+        font-weight: 700;
+        font-family: "Work Sans", serif;
+        letter-spacing: 1px;
+        
+        }
+        .Nuseryplanthome-mainsection-row8-rowmain-div1-p2{
+            color: #FFFFFF;
+            font-size: 1.7rem;
+                    font-weight: 400;
+                    font-family: "Work Sans", serif;
+                    margin-right: 20%;
+                   
+            
+        }
+        .Nuseryplanthome-mainsection-row8-rowmain-div1-subdiv{
+            margin: 10% 20% 5% 10%;
+        }
+        .Nuseryplanthome-mainsection-row8-rowmain-div1-btn{
+            color: #FFFFFF;
+            font-size: 1.4rem;
+        font-weight: 600;
+        font-family: "Work Sans", serif;
+        background-color: transparent;
+        border: none;
+
+        }
+        @media (min-width:300px) and (max-width:567px){
+            .Nuseryplanthome-mainsection-row8-rowmain-div1-p1{
+                font-size: 1.2rem;
+            }
+            .Nuseryplanthome-mainsection-row8-rowmain-div1-p2,
+            .Nuseryplanthome-mainsection-row8-rowmain-div1-btn{
+                font-size: 1rem;
+            }
+        }
+        @media (min-width:766px) and (max-width:1024px){
+            .Nuseryplanthome-mainsection-row8-rowmain-div1-p1{
+                font-size: 1.3rem;
+            }
+            .Nuseryplanthome-mainsection-row8-rowmain-div1-p2{
+                font-size: 1rem;
+                margin-right: 10%;
+            } 
+            .Nuseryplanthome-mainsection-row8-rowmain-div1-btn{
+                font-size: 1rem !important;
+            }
+        }
+/* ---------------row9--------------- */
+.Nuseryplanthome-mainsection-row9-container-subdiv,
+.Nuseryplanthome-mainsection-row9-container-carousel-body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.Nuseryplanthome-mainsection-row9-container-carousel-body{
+    background: #F4F4F4;
+
+}
+.Nuseryplanthome-mainsection-row9-container-carousel-card{
+border: none !important;
+border-radius: 0px !important;
+}
+.Nuseryplanthome-mainsection-row9-container-carousel-text{
+    font-size: 1.2rem;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+color: #373737;
+}
+.Nuseryplanthome-mainsection-row9-container-carousel-title{
+    font-size: 0.8rem;
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+    color: #ABABAB;
+}
+.Nuseryplanthome-mainsection-row9-container-subdiv-p1{
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    color: #373737;
+    font-size: 1.4rem;
+}
+.Nuseryplanthome-mainsection-row9-container-subdiv-viewAllBtn{
+    color: #ABABAB;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    font-size: 1.3rem;
+background-color: transparent;
+border: none;
+}
+@media (min-width:678px) and (max-width:1024px) {
+    .Nuseryplanthome-mainsection-row9-container-carousel-title{
+        font-size: 0.6rem;
+    }
+    .Nuseryplanthome-mainsection-row9-container-carousel-text{
+        font-size: 0.6rem;
+        
+    }
+    .Nuseryplanthome-mainsection-row9-container-subdiv-p1,
+    .Nuseryplanthome-mainsection-row9-container-subdiv-viewAllBtn,
+    .Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-btn{
+        font-size: 1rem !important;
+    }
+    .Nuseryplanthome-mainsection-row10-carousel-card{
+       background-color:#000000;
+        border: none;
+        
+    }
+   
+}
+@media (max-width:676px) {
+    .Nuseryplanthome-mainsection-row9-container-carousel-text {
+        font-size: 0.9rem !important;
+    }
+    .Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-btn {
+        font-size: 0.8rem !important;
+    }
+    .Nuseryplanthome-mainsection-row9-container-subdiv-p1,
+    .Nuseryplanthome-mainsection-row9-container-subdiv-viewAllBtn{
+        font-size: 1rem !important;
+    }
+    .Nuseryplanthome-mainsection-row9-container-carousel-card{
+        width: 60% !important;
+       
+    }
+    .Nuseryplanthome-mainsection-carousel-item-col{
+        margin-left: 20% !important;
+    }
+    .Nuseryplanthome-mainsection-carousel-card{
+        width: 60%;
+    }
+    .Nuseryplanthome-mainsection-row10-carousel-card{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+         background-color: #000000; 
+        border: none;
+        margin-left: 20%;
+    }
+    .cardimg{
+        width: 70%;
+    }
+}
+
+/* -------------row10- */
+.Nuseryplanthome-mainsection-row10-maindiv-container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Nuseryplanthome-mainsection-row10-maindiv{
+
+    background: #000000;
+
+}
+.Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-p1{
+
+    color: #FAAB34;
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+    font-size: 1.2rem;
+}
+.Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-p2{
+
+    color: #FFFFFF;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    font-size: 1.5rem;
+    margin-right: 56%;
+}
+.Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-btn{
+
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+    font-size: 1.2rem;
+    background: #FAAB34;
+color: #FFFFFF;
+border: none;
+border-radius: 6px;
+padding: 5px 13px 5px 13px;
+}
+#carouselExample3 {
+    max-width: 700px; /* Adjust width */
+    margin: 0 auto; /* Center the carousel */
+}
+
+
+
+.carousel-inner .row {
+    /* overflow-x: auto; */
+    white-space: nowrap;
+  }
+  
+  .carousel-inner .card {
+    display: inline-block;
+    /* margin-right: 15px; */
+  }
+/* ---------------------------row11---------- */
+.Nuseryplanthome-mainsection-row11-content-container-p1{
+    text-align: center;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    font-size: 1.6rem;
+    color: #000000;
+}
+#Nuseryplanthome-mainsection-row11-content-container-input{
+    
+    border: 0.6px solid #ABABAB;
+    background: #F4F4F4;
+    padding:  4px 12px;
+    margin-left: 20%;
+    width: 50%;
+    outline: none; 
+
+}
+#Nuseryplanthome-mainsection-row11-content-container-input::placeholder{
+    color: #ABABAB;
+    font-size: 1rem;
+    font-family: "Work Sans", serif;
+}
+.Nuseryplanthome-mainsection-row11-content-container-btn{
+    background: #FAAB34;
+color: #FFFFFF;
+font-size: 1rem;
+    font-family: "Work Sans", serif;
+    border: none;
+  margin-left: 1%;
+    padding:  7px 12px 5px 12px;
+}
+/* ----------row12------------- */
+.Nuseryplanthome-mainsection-row12-content-container-ptitle{
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    font-size: 1.1rem;
+    color: #000000;
+    
+}
+.Nuseryplanthome-mainsection-row12-content-container-p-text1{
+    color: #B3B3B3;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    font-size: 1rem;
+    margin-right: 4%;
+}
+.Nuseryplanthome-mainsection-row12-content-container-p-text{
+    color: #B3B3B3;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    font-size: 1rem;
+    
+}
+.Nuseryplanthome-mainsection-row12-content-container-p-textspan{
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    font-size: 1rem;
+    color: #F9C000;
+}
+@media (max-width:676px) {
+    .Nuseryplanthome-mainsection-row12-content{
+        margin-left: 10% !important;
+    }
+    .Nuseryplanthome-mainsection-row11-content-container-p1{
+font-size: 1rem !important;
+    }
+    #Nuseryplanthome-mainsection-row11-content-container-input{
+        width: 100%;
+        margin-left: 0% !important;
+    }
+    .Nuseryplanthome-mainsection-row11-content-container-btn{
+        margin-left: 40%;
+        margin-top: 2%;
+        font-size: 0.8rem;
+    }
+    .Nuseryplanthome-mainsection-row12-content-container{
+        margin-top: 1% !important;
+    }
+    .Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-p2{
+        margin-right: 0% !important;
+        font-size: 1rem !important;
+    }
+    .Nuseryplanthome-mainsection-row12-content-container-p-text1{
+      
+        margin-right: 0%;
+    }
+    
+}
+@media (min-width:768px) and (max-width:1024px) {
+    .Nuseryplanthome-mainsection-row12-content-container-p-text1{
+
+        font-size: 0.8rem;
+        margin-right: 2%;
+    }
+    .Nuseryplanthome-mainsection-row12-content-container-p-text{
+        font-size: 0.8rem;
+        margin-bottom: 2%;
+    }
+    .Nuseryplanthome-mainsection-row12-content-container-ptitle{
+        font-size: 1rem;
+    }
+    .Nuseryplanthome-mainsection-row10-maindiv-container-subdiv-p2{
+        font-size: 1rem !important;
+    }
+    .Nuseryplanthome-mainsection-row11-content-container-p1{
+        font-size: 1.2rem !important;
+    }
+}
+
+/* ------------footer--------------- */
+.Nuseryplanthome-mainsection-row13-footer-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.Nuseryplanthome-mainsection-row13-footer{
+    background: #000000;
+    margin-top: 2%;
+
+}
+.Nuseryplanthome-mainsection-row13-footer-subfootertextcontent-p1{
+color: #FFFFFF;
+font-weight: 400;
+font-family: "Work Sans", serif;
+font-size: 1rem;
+}
+.Nuseryplanthome-mainsection-row13-footer-subfootertextcontent-span{
+    color: #FFFFFF;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    font-size: 1.2rem;
+}
+
+    @media (max-width: 567px) {
+        /* .prvbtn,
+        .nextbtn {
+            display: none !important;
+        } */
+        .Nuseryplanthome-mainsection-row12-content-container-p-text{
+            font-size: 0.8rem;
+            margin-bottom: 1% !important;
+        }
+        .Nuseryplanthome-mainsection-row12-content-container-ptitle {
+            font-size: 1rem;
+            margin-bottom: 0% !important;
+           
+        }
+        .Nuseryplanthome-mainsection-row12-content-container-p-text1,
+        .Nuseryplanthome-mainsection-row12-content-container-p-textspan {
+            font-size: 0.8rem;
+        }
+        .Nuseryplanthome-mainsection-row13-footer-subfootertextcontent-span{
+            font-size: 1rem !important;
+        }
+        .Nuseryplanthome-mainsection-row13-footer-subfootertextcontent-p1 {
+            font-size: 0.8rem !important;
+        }
+    }
+   .hamburger-icon {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      width: 24px;
+      height: 18px;
+      cursor: pointer;
+    }
+
+    .hamburger-icon span {
+      display: block;
+      width: 100%;
+      height: 3px;
+      background-color: black;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .hamburger-icon.active span:nth-child(1) {
+      transform: translateY(7px) rotate(45deg);
+    }
+
+    .hamburger-icon.active span:nth-child(2) {
+      opacity: 0;
+    }
+
+    .hamburger-icon.active span:nth-child(3) {
+      transform: translateY(-7px) rotate(-45deg);
+    }
+
+    .navbar-collapse {
+      display: none; /* Initially hidden */
+    }
+
+    .navbar-collapse.show {
+      display: block; /* Shown when toggled */
+    }
+
+   /* Media Query to hide hamburger icon on large screens */
+   @media (min-width: 676px) {
+    .hamburger-icon {
+      display: none;
+    }
+    
+
+}
+@media (min-width:300px) and (max-width:676px) {
+    .Nuseryplanthome-mainsection-row-divnav-ul{
+       
+        margin-left: 4% !important;
+      
+    }
+    .Nuseryplanthome-mainsection-row-btn1 a{
+        font-size: 0.8rem !important;
+    }
+}
+@media (min-width:677px) and (max-width:1000px) {
+    .Nuseryplanthome-mainsection-row-divnav-ul{
+       
+        /* margin-left: 20% !important; */
+        margin-top: 2% !important;
+    }
+}
+.large-screen {
+    display: flex;
+}
+
+.small-screen {
+    display: none;
+}
+
+/* Small Screen Display */
+@media (max-width: 766px) {
+    .large-screen {
+        display: none;
+    }
+
+    .small-screen {
+        display: block;
+    }
+
+    .navbar-slide {
+        position: absolute;
+        top: 0px;
+        left: 0;
+        width: 50%;
+        height: 100vh !important;
+        background: #ffff;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+    }
+
+    .navbar-slide.active {
+        transform: translateX(0);
+    }
+
+    .menu-toggle-btn {
+        background: none;
+        border: none;
+        font-size: 24px;
+        cursor: pointer;
+    }
+
+    .close-btn {
+        background: none;
+        border: none;
+        font-size: 14px;
+        cursor: pointer;
+        margin-left: 85%;
+    }
+}

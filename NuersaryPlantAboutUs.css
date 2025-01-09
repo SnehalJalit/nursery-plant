@@ -1,0 +1,479 @@
+.Nuseryplanthome-mainsection-row-divnav-ul{
+   
+    display: flex;
+}
+/* .Nuseryplanthome-mainsection-row-divnav{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.Nuseryplanthome-mainsection-row-divnav-ul-li1{
+text-decoration: none;
+
+list-style: none;
+
+}
+.Nuseryplanthome-mainsection-row-divnav-ul-li1 a{
+    text-decoration: none;
+    font-family: "Inter", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    color: #000000;
+}
+.Nuseryplanthome-mainsection-row-divnav-ul-li1:hover{
+
+    color: #FAAB34;
+}
+
+.Nuseryplanthome-mainsection-row-nav{
+
+    border-bottom: 1px solid #D9D9D9;
+}
+
+
+.Nuseryplanthome-mainsection-row-divmocha{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.Nuseryplanthome-mainsection-row-div3{
+gap: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Nuseryplanthome-mainsection-row-mocha-p{
+
+    color: #000000;
+    font-family: 'Times New Roman', Times, serif;
+font-size: 1.5rem;
+font-weight: 600;
+}
+.Nuseryplanthome-mainsection-row-btn{
+color: #FFFFFF;
+    background: #FAAB34;
+    font-family: "Inter", serif;
+    font-size: 1rem;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 12px 5px 12px;
+}
+
+@media (max-width:567px) {
+    .Nuseryplanthome-mainsection-row-divnav-ul-li1 a{
+        
+        font-size: 0.8rem !important;
+       
+    }
+    .Nuseryplanthome-mainsection-row-div3 {
+        margin-bottom: 5% !important;
+        margin-top: 0% !important;
+    }
+    .Nuseryplanthome-mainsection-row-divnav-ul-li1{
+        margin: 1px ;
+    }
+}
+/* ----------------------------------section2------------- */
+.NurseryPlant-AbutUs-section2-row-div1-imgdiv
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.NurseryPlant-AbutUs-section2-row{
+    border-bottom: 1px solid #D9D9D9 !important;
+}
+.NurseryPlant-AbutUs-section2-row-div2{
+    border-left: 1px solid  #D9D9D9;
+}
+.NurseryPlant-AbutUs-section2-row-div2-subdivtext-p1{
+    color: #000000;
+    font-size: 2.7rem;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    margin-left: 20%;
+    margin-right: 20%;
+    line-height: 2.9rem;
+}
+.NurseryPlant-AbutUs-section2-row-div2-subrow-div1 ,
+.NurseryPlant-AbutUs-section2-row-div2-subrow-div2{
+    border: 1px solid #D9D9D9;
+    border-right:none !important ;
+}
+.NurseryPlant-AbutUs-section2-row-div2-subrow-div1-imgdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5% 2% 5% 2%;
+}
+.NurseryPlant-AbutUs-section2-row-div2-subrow-div2-p1,
+.NurseryPlant-AbutUs-section2-row-div2-subrow-div2-p2
+{ font-size: 0.8rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+
+    color: #B3B3B3;
+
+}
+@media (max-width:567px) {
+    .NurseryPlant-AbutUs-section2-row-div2-subdivtext-p1{
+        
+        font-size: 1.7rem;
+       
+        line-height: 1.9rem;
+    }
+}
+@media (min-width:569px) and (max-width:1024px) {
+    .NurseryPlant-AbutUs-section2-row-div2-subdivtext-p1{
+        margin-right: 29%;
+        font-size: 1.5rem;
+       padding: 0% !important;
+        line-height: 1.6rem;
+    }
+    .NurseryPlant-AbutUs-section2-row-div2-subrow-div2-p1,
+    .NurseryPlant-AbutUs-section2-row-div2-subrow-div2-p2 {
+        font-size: 0.6rem !important;
+}}
+
+
+/* ---------------------------------section3---------------------------- */
+.NurseryPlant-AbutUs-section3-maindiv{
+    background: #000000;
+
+}
+.NurseryPlant-AbutUs-section3-maindiv-row-div1{
+    border: 1px solid #FFFFFF !important;
+    border-left: none !important;
+}
+.NurseryPlant-AbutUs-section3-maindiv-row-div2{
+    border: 1px solid #FFFFFF !important;
+    border-right: none !important;
+}
+.NurseryPlant-AbutUs-section3-maindiv-row-div2-p1{
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: "Work Sans", serif;
+
+}
+.NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1{
+    border-bottom: 1px solid #FFFFFF !important;
+}
+.NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1-p1{
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: "Work Sans", serif;
+    margin-left: 20%;
+    margin-right: 28%;
+
+
+}
+.NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1-p2{
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    margin: 5%;
+    padding-top: 5%;
+
+}
+/* -------------media for section3---------- */
+@media (max-width:567px) {
+    .NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1-p1{
+       
+        font-size: 1rem;
+        font-weight: 500;
+        margin-top: 1rem !important;
+    
+    
+    }
+    .NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1{
+padding: 0% !important;
+
+    }
+    .NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1-p2{
+        
+        font-size: 0.8rem;
+        font-weight: 400;
+       
+        margin: 3% !important;
+        padding-top: 1% !important;
+    
+    }
+    .NurseryPlant-AbutUs-section3-maindiv-row-div2-subdiv {
+        padding: 1rem !important;
+    }
+}
+@media (min-width:568px) and (max-width:1024px) {
+    .NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1-p1{
+        margin-right: 35%;
+
+        font-size: 1.2rem;
+        font-weight: 500;
+        margin-top: 1rem !important;
+    
+    
+    }
+    .NurseryPlant-AbutUs-section3-maindiv-row-div1-subdiv1-p2{
+        
+        font-size: 0.8rem;
+        font-weight: 400;
+       
+        margin: 8% !important;
+        padding-top: 1% !important;
+    
+    }
+}
+/* ---------------------------------section4-------------------- */
+.NurseryPlant-AbutUs-section4-maindiv-row-div1-subdiv-p1{
+    color: #000000;
+    font-size: 1.6rem;
+    font-weight: 700;
+    font-family: "Work Sans", serif;
+}
+.NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div1{
+    background-image: url(/images/nurseryAboutUssection4img2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-p{
+    color: #000000;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+}
+.NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div1-p1{
+    color: #FFFFFF;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: "Work Sans", serif;
+}
+.NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div1-p2{
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+}
+.NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div2-p1{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+color: #858584;
+margin-top: 23%;
+}
+.NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div2-btn{
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+    color: #000000;
+    border-left: 0.81px solid #FAAB34 !important;
+    border:none;
+    padding: 5px 13px;
+    margin-top: 18%;
+}
+@media (min-width:678px) and (max-width:1024px) {
+    .NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div1-p1{
+        font-size: 1.5rem;
+        margin-bottom: 0% !important;
+        
+    }
+    .NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div1-p2{
+        font-size: 0.8rem !important;
+        margin-bottom: 0% !important;
+    }
+    .NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-row-div2-p1{
+        font-size: 0.8rem !important;
+    }
+}
+
+
+
+
+
+/* --------------------------section5-------------- */
+.NurseryPlant-AboutUs-section5-maindiv{
+    background: #000000;
+
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div1-p1{
+    color: #FAAB34;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Inter", serif;
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div1-p2{
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    color: #FFFFFF;
+    margin-right: 46%;
+    margin-top: -3% !important;
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div1-p3{
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    color: #FFFFFF;
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div1-btn{
+    background: #FAAB34;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+    padding: 5px 16px;
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2{
+    border: 0.5px solid #FFFFFF;
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2-p1{
+    font-size: 1.3rem;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    color: #FFFFFF;
+}
+.NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2-li{
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-family: "Inter", serif;
+    margin-top: 3%;
+}
+@media (max-width:676px) {
+    .NurseryPlant-AboutUs-section5-maindiv-row-div1-p2{
+        font-size: 1rem;
+        margin-right: 23%;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div1-p3,
+    .NurseryPlant-AboutUs-section5-maindiv-row-div1-btn{
+        font-size: 0.8rem;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2
+    {
+        padding: 1rem !important;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv{
+        padding: 0% !important;
+        margin-top: 7%;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2-li{
+        font-size: 0.6rem !important;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2-p1{
+        font-size: 1.1rem !important;
+    }
+}
+@media (min-width:678px) and (max-width:1024px) {
+    .NurseryPlant-AboutUs-section5-maindiv-row-div1-p2{
+        font-size: 1.1rem !important;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div1-p3{
+        font-size: 0.8rem;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2
+    {
+        padding: 1rem !important;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv{
+        padding: 2rem !important;
+       
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2-p1{
+        font-size: 1.1rem !important;
+    }
+    .NurseryPlant-AboutUs-section5-maindiv-row-div2-subdiv-subdiv2-li{
+        font-size: 0.7rem !important;
+    }
+}
+/* -------------------------------section6------------------------------------------ */
+.NurseryPlant-AboutUs-section6-maindiv-row-div1-p1{
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: "Work Sans", serif;
+    color: #000000;
+}
+.NurseryPlant-AboutUs-section6-maindiv-row-div1-p2{
+    font-family: "Inter", serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: #858584;
+    margin-right: 20%;
+}
+.NurseryPlant-AboutUs-section6-maindiv-row-div2-subdiv-input{
+    width: 100%;
+    background: #F4F4F4;
+    border: 0.6px solid #ABABAB;
+    margin-top: 3%;
+    outline: none;
+    padding: 5px;
+
+}
+.NurseryPlant-AboutUs-section6-maindiv-row-div2-subdiv-input::placeholder{
+    color: #ABABAB;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    padding-left: 2%;
+}
+.NurseryPlant-AboutUs-section6-maindiv-row-div2-subdiv-textarea{
+    width: 100%;
+    background: #F4F4F4;
+    border: 0.6px solid #ABABAB; margin-top: 3%;
+    padding: 5px;
+    color: #ABABAB;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: "Work Sans", serif;
+    padding-left: 2%;
+}
+.NurseryPlant-AboutUs-section6-maindiv-row-div2-subdiv-btn{
+    width: 100%;
+    background: #FAAB34;
+    font-size: 1rem;
+    font-weight: 500;
+    font-family: "Work Sans", serif;
+    color: #FFFFFF;
+    border: none;
+    padding: 2%;
+    margin-top: 3%;
+   
+}
+@media (max-width:675px) {
+    .NurseryPlant-AboutUs-section6-maindiv-row-div1-p2{
+        font-size: 0.8rem !important;
+        margin-right: -8%;
+    }
+    .NurseryPlant-AboutUs-section6-maindiv-row {
+        padding: 1rem !important;
+    }
+    .NurseryPlant-AboutUs-section6-maindiv-row-div1-p1{
+        font-size: 1.4rem !important;
+        
+    }
+}
+@media (min-width:676px) and (max-width:1025px) {
+    .NurseryPlant-AboutUs-section6-maindiv-row-div1-p2{
+        font-size: 0.8rem;
+        margin-right: 7%;
+    }
+    .NurseryPlant-AboutUs-section6-maindiv-row-div1-p1{
+        font-size: 1.2rem !important;
+        
+    }
+    .NurseryPlant-AbutUs-section4-maindiv-row-div1-subdiv-p1{
+font-size: 1.4rem !important;
+    }
+    .NurseryPlant-AbutUs-section4-maindiv-row-div2-subdiv-p{
+        font-size: 0.9rem !important;
+    }
+    .NurseryPlant-AbutUs-section3-maindiv-row-div2-p1{
+        font-size: 1.5rem !important;
+    }
+}
