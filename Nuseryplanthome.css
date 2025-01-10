@@ -208,7 +208,7 @@ text-transform: uppercase;
         font-weight: 300;
     }
     .Nuseryplanthome-mainsection-row4{
-        background-image: url(/images/nuersaryhomebackgroundimg.png);
+        background-image: url(/nursery-plant/images/nuersaryhomebackgroundimg.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100% !important;
@@ -460,7 +460,7 @@ padding: 5px 12px 5px 12px;
 
     }
     .Nuseryplanthome-mainsection-row5-div-watch{
-        background-image: url(/images/HomeRectangle.png);
+        background-image: url(/nursery-plant/images/HomeRectangle.png);
         background-repeat: no-repeat;
         transform: translateY(-76px);
        
@@ -715,7 +715,7 @@ margin-right: 42%;
 
         /* -------------row8---------- */
         .Nuseryplanthome-mainsection-row8-rowmain{
-            background-image: url(/images/nurseryplanthomepotimg.png);
+            background-image: url(/nursery-plant/images/nurseryplanthomepotimg.png);
             background-size: cover;
             background-repeat: no-repeat;
             width: 100%;
