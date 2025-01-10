@@ -108,7 +108,7 @@ font-size: 0.8rem;
 
 /* --------------------------------------section3--------------- */
 .NurseryProduct-page-section3-mainrow-col2-subdiv1{
-    background-image: url(/images/Nurseryproductsec3img2.png);
+    background-image: url(/nursery-plant/images/Nurseryproductsec3img2.png);
     background-repeat: no-repeat;
     background-size: cover;
      padding: 17%; 
@@ -262,7 +262,7 @@ border-radius: 9px;
 }
 /* -----------------------------------section6------------ */
 .NurseryProduct-page-section6-mainrow{
-    background-image: url(/images/nurseryProductsec6bgimg1.png);
+    background-image: url(/nursery-plant/images/nurseryProductsec6bgimg1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-color: rgba(0, 0, 0, 0.5);
